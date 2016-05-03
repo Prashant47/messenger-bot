@@ -1,5 +1,5 @@
 {
-  "name": "Messenger Bot",
+  "name": "messenger-bot",
   "version": "0.1.0",
   "description": "Messenger bot using eliza",
   "main": "index.js",
