@@ -1,1 +1,29 @@
-
+{
+  "name": "Messenger Bot",
+  "version": "0.1.0",
+  "description": "Messenger bot using eliza",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.0",
+    "express": "~4.13.3",
+    "request":"~2.67.0"
+  },
+  "engines": {
+    "node": "4.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prashant47/messenger-bot"
+  },
+  "keywords": [
+    "Messenger Bot",
+    "node",
+    "express",
+    "heroku"
+  ],
+  "license": "https://github.com/Prashant47/messenger-bot//blob/master/LICENSE",
+  "bugs": "https://github.com/Prashant47/messenger-bot/issues"
+}
